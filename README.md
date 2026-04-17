@@ -1,5 +1,7 @@
 # Usb Hub
-This is a Usb Hub with 2 USB C port and 2 USB A port
+This is a whale theme Usb Hub with 2 USB C port and 2 USB A port.
+
+<img width="263" height="377" alt="Screenshot 2026-04-17 at 10 52 12 AM" src="https://github.com/user-attachments/assets/8f725d62-bbc4-41e7-a3b0-fe21f547f57d" />
 
 ## Features:
 - 2 USB C port
