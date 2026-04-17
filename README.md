@@ -11,7 +11,7 @@ Checkout the PCB [here](https://u.easyeda.com/join?type=project&key=564245474f49
 <img width="720" height="493" alt="Screenshot 2026-04-17 at 9 50 54 AM" src="https://github.com/user-attachments/assets/89b9aee2-b1d3-40bb-ac54-0c6f3d8cd45c" />
 
 ### Layout:
-<img width="435" height="389" alt="Screenshot 2026-04-17 at 9 51 16 AM" src="https://github.com/user-attachments/assets/53e97e17-b027-4848-b0bc-fa1887dc9af2" />
+<img width="435" height="389" alt="Screenshot 2026-04-17 at 10 26 51 AM" src="https://github.com/user-attachments/assets/affa9435-b22f-4cb1-be69-8ec21159b1b4" />
 
 I used Easyeda.
 
