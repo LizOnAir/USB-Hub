@@ -5,6 +5,16 @@ This is a Usb Hub with 2 USB C port and 2 USB A port
 - 2 USB C port
 - 2 USB A port
 
+## PCB
+Checkout the PCB [here](https://u.easyeda.com/join?type=project&key=564245474f4909fcd80bbfe5c5d1c6a6&inviter=228e0fe9d6f2460695a533149e78a37c)!
+### Schematic:
+<img width="720" height="493" alt="Screenshot 2026-04-17 at 9 50 54 AM" src="https://github.com/user-attachments/assets/89b9aee2-b1d3-40bb-ac54-0c6f3d8cd45c" />
+
+### Layout:
+<img width="435" height="389" alt="Screenshot 2026-04-17 at 9 51 16 AM" src="https://github.com/user-attachments/assets/53e97e17-b027-4848-b0bc-fa1887dc9af2" />
+
+I used Easyeda.
+
 ## CAD Model:
 Download the case [here](https://github.com/LizOnAir/USB-Hub/tree/main/CAD) and print yours!
 
