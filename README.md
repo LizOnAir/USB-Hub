@@ -28,3 +28,5 @@ Here should be [everything](https://docs.google.com/spreadsheets/d/1kpO7dwbzX8S-
 
 - 1x PCBA
 - 1x 3D printed case
+- 4x M3 heatset insert
+- 4x m3 screws
