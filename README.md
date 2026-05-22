@@ -1,9 +1,10 @@
 # Usb Hub
-This is a whale theme Usb Hub with 2 USB C port and 2 USB A port.
-
+This is a whale theme Usb Hub with 2 USB C port and 2 USB A port. I'm trying to explore other PCB designing application and since EasyEDA provides discount when ordering from JLCPCB, thats why I tried EasyEDA for the first time. (TBH I'm going back to kicad lol)
+After making the USB Hub as a round design, I thought that it would be better if there's a little charm on the USB Hub. Soo here comes the whale heh.
 <img width="559" height="766" alt="Screenshot 2026-05-03 at 4 54 12 PM" src="https://github.com/user-attachments/assets/78ee09fd-4bfa-4234-8f9f-a7d7143b4820" />
 
 ## Features:
+CHARGE YOUR DEVICEE
 - 2 USB C port
 - 2 USB A port
 
@@ -15,7 +16,7 @@ Checkout the PCB [here](https://u.easyeda.com/join?type=project&key=564245474f49
 ### Layout:
 <img width="435" height="389" alt="Screenshot 2026-04-17 at 10 26 51 AM" src="https://github.com/user-attachments/assets/affa9435-b22f-4cb1-be69-8ec21159b1b4" />
 
-I used Easyeda.
+By Liz from Easyeda.
 
 ## CAD Model:
 Download the [uppercase](https://github.com/LizOnAir/USB-Hub/blob/main/CAD/UpperCase.step) + [lowercase](https://github.com/LizOnAir/USB-Hub/blob/main/CAD/LowerCase.step) and print yours!
@@ -23,7 +24,7 @@ Download the [uppercase](https://github.com/LizOnAir/USB-Hub/blob/main/CAD/Upper
 <img width="435" height="389" alt="Screenshot 2026-04-17 at 10 14 00 AM" src="https://github.com/user-attachments/assets/752b491e-2782-4607-bc1c-cc69c02ec536" />
 <img width="435" height="389" alt="Screenshot 2026-04-17 at 10 13 47 AM" src="https://github.com/user-attachments/assets/bd5c5fbc-fc08-45a1-98b5-15e2af889bc2" />
 
-By Liz from fusion 360
+By Liz from fusion 360.
 
 ## Assembly
 Steps:
