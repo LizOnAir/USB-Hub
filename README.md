@@ -29,11 +29,12 @@ By Liz from fusion 360.
 
 ## Assembly
 Steps:
-1.  Insert 4 heatset onto the 4 mounting holes in the bottom case.
-2.  Align the holes of PCB onto the holes of the bottom case.
-3.  Cover the top case over the bottom case.
-4.  Screw them tight together.
-5.  Plug in and use!!
+1.  Colours the print with acrylic paint. (Skip if you used coloured print) 
+2.  Insert 4 heatset onto the 4 mounting holes in the bottom case.
+3.  Align the holes of PCB onto the holes of the bottom case.
+4.  Cover the top case over the bottom case.
+5.  Screw them tight together.
+6.  Plug in and use!!
 
 ## BOM:
 Here should be [everything](https://docs.google.com/spreadsheets/d/1kpO7dwbzX8S-LacFO3Ey96EpqRtxvaOcxqeTrFemMfM/edit?usp=sharing) you need to make this hackpad
