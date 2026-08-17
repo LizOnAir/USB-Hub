@@ -2,8 +2,12 @@
 This is a whale theme Usb Hub with 2 USB C port and 2 USB A port. I'm trying to explore other PCB designing application and since EasyEDA provides discount when ordering from JLCPCB, thats why I tried EasyEDA for the first time. (TBH I'm going back to kicad lol)
 After making the USB Hub as a round design, I thought that it would be better if there's a little charm on the USB Hub. Soo here comes the whale heh.
 
-<img width="559" height="766" alt="Screenshot 2026-05-03 at 4 54 12 PM" src="https://github.com/user-attachments/assets/78ee09fd-4bfa-4234-8f9f-a7d7143b4820" />
+<img width="350" height="499" alt="Screenshot 2026-08-17 at 10 32 16 PM" src="https://github.com/user-attachments/assets/b356968c-c67a-4873-8a21-049a704b9b8a" />
 
+<img width="479" height="521" alt="IMG_4627" src="https://github.com/user-attachments/assets/9e2149a0-342d-464c-9a62-cdafd271a7c0" />
+
+
+Click for [Video Demo](https://youtube.com/shorts/3G7hW22uwAg?si=O5wlGZ4FNuNxYybm)
 ## Features:
 CHARGE YOUR DEVICEE
 - 2 USB C port
